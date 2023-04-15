@@ -1,0 +1,2 @@
+Kivy is an opensource  Python library that allows you to develop multi-platform graphical user interface applications on Windows, macOS, Android, iOS, Linux, and Raspberry-Pi. In addition to regular mouse and keyboard inputs, it supports multitouch events. 
+Applications made using Kivy will appear similar across all the platforms but it also means that the applications feel or look will differ from any native application.
